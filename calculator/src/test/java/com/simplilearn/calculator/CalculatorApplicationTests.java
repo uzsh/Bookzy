@@ -1,10 +1,10 @@
-package com.simplilearn.Calculator1;
+package com.simplilearn.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Calculator1ApplicationTests {
+class CalculatorApplicationTests {
 
 	@Test
 	void contextLoads() {
